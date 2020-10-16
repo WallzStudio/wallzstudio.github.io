@@ -1,7 +1,7 @@
 # Site
-name: "WallpaperZ Studio"
+name: "zStudio"
 title: "WallpaperZ Studio"
-description: "Welcome to WallpaperZ Studio!"
+description: "Welcome to WallpaperZ Studio"
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/logo.png'
 baseurl: ''
@@ -14,9 +14,9 @@ email: ttchou08@gmail.com
 
 # Authors
 authors:
-  ttchou:
-    name: Chow
-    display_name: Chow
+  chou:
+    name: Chou
+    display_name: Chou
     gravatar: e56154546cf4be74e393c62d1ae9f9d4
     email: ttchou08@gmail.com
     web: https://www.wowthemes.net/donate/
