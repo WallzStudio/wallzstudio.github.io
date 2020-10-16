@@ -64,4 +64,4 @@ I may update our Privacy Policy from time to time. Thus, you are advised to revi
 
 If you have any questions or suggestions about my Privacy Policy, do not hesitate to contact me.
 
-e-mail: ttchou08@gmail.com
+e-mail: <ttchou08@gmail.com>
