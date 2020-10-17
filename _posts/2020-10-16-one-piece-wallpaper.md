@@ -4,7 +4,7 @@ title:  "Art Wallpapers For One Piece"
 author: chou
 categories: [ Lifestyle ]
 tags: [ wallpaper, app ]
-image: assets/images/one_piece_feature.jpg
+image: https://is5-ssl.mzstatic.com/image/thumb/Purple113/v4/a6/77/2f/a6772f10-fb4f-16af-a8f1-779e70759ee8/AppIcon-0-1x_U007emarketing-0-0-85-220-0-7.png/540x540sr.jpg
 comments: false
 rating: 4.5
 ---
@@ -27,5 +27,3 @@ Share this app with your friends who love One Piece Anime like you.
 Download and Enjoy the amazing Heroes you like best.
 
 <a href="https://apps.apple.com/us/app/art-wallpapers-for-one-piece/id1280342694?itsct=apps_box&amp;itscg=30200" style="display: inline-block; overflow: hidden; border-radius: 13px; width: 250px; height: 83px;"><img src="https://tools.applemediaservices.com/api/badges/download-on-the-app-store/black/en-US?size=250x83&amp;releaseDate=1546905600&h=d55abe668b450013dadf44a8be79d128" alt="Download on the App Store" style="border-radius: 13px; width: 250px; height: 83px;"></a>
-
-<img src="https://tools-qr-production.s3.amazonaws.com/output/apple-toolbox/9e98711bce8b0e68b89c03f0969280cc/b76cedc7-6a95-475e-a7c1-e70121f5b6da.png" width="250">

@@ -27,6 +27,3 @@ Share this app with your friends who love Clash Royale like you.
 <a href="https://apps.apple.com/us/app/art-wallpapers-for-clash-fans/id1258066510?itsct=apps_box&amp;itscg=30200" style="display: inline-block; overflow: hidden; border-radius: 13px; width: 250px; height: 83px;"><img src="https://tools.applemediaservices.com/api/badges/download-on-the-app-store/black/en-US?size=250x83&amp;releaseDate=1500249600&h=24be03b7ebe615c87582aa0c9fb1ed44" alt="Download on the App Store" style="border-radius: 13px; width: 250px; height: 83px;"></a>
 
 <img src="https://tools-qr-production.s3.amazonaws.com/output/apple-toolbox/11ccaa9e7fabe3b662bc898b7ddec9ac/fb485641-1d1b-449e-bcd6-10a2a1775c8d.png" width="250">
-
-
-
