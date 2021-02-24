@@ -6,7 +6,7 @@ categories: [ Lifestyle ]
 tags: [ wallpaper, app, anime ]
 image: https://is1-ssl.mzstatic.com/image/thumb/Purple114/v4/44/50/bf/4450bf4c-c2f1-e480-2362-b1a92e3487b4/AppIcon-0-0-1x_U007emarketing-0-0-0-10-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/540x540bb.jpg
 comments: false
-rating: 4.9
+rating: 5
 ---
 
 This app provide anime wallpapers in HD & 4K quality, with many categories and characters.
