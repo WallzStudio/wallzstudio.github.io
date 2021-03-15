@@ -4,7 +4,7 @@ title:  "Quotes - Daily Motivation"
 author: chou
 categories: [ Health, Fitness ]
 tags: [ wallpaper, app, quotes ]
-image: https://is1-ssl.mzstatic.com/image/thumb/Purple124/v4/1a/e0/50/1ae05054-5821-c563-5b0a-b3255fedfeea/AppIcon-0-0-1x_U007emarketing-0-0-0-10-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png
+image: https://is1-ssl.mzstatic.com/image/thumb/Purple124/v4/1a/e0/50/1ae05054-5821-c563-5b0a-b3255fedfeea/AppIcon-0-0-1x_U007emarketing-0-0-0-10-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/540x540bb.jpg
 comments: false
 rating: 5
 ---
