@@ -5,8 +5,6 @@ permalink: /contact
 comments: false
 ---
 
-## Contact Us
-
 If you have any questions or suggestions, do not hesitate to contact us.
 
 e-mail: <ttchou08@gmail.com>
